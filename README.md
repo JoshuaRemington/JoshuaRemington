@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 
 - **🔭 Currently working on**: Creation of Active Directory users via powershell script
 - **🌱 Learning**: CYBR-502: Cybersecurity Network Defense
-- **💬 How to reach me**: joshua.remington12@gmail.com or - www.linkedin.com/in/josh-remington-798b08285
+- **💬 How to reach me**: joshua.remington12@gmail.com / www.linkedin.com/in/josh-remington-798b08285
 
 ---
 [
@@ -44,3 +44,4 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 ## 🔗 Connect with Me
 
 www.linkedin.com/in/josh-remington-798b08285
+joshua.remington12@gmail.com
