@@ -7,24 +7,32 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 ## 🚀 About Me
 
 - **🔭 Currently working on**: Creation of Active Directory users via powershell script
-- **🌱 Learning**: CYBR-502: Cybersecurity Network Defense
+- **🌱 Learning**: CYBR-506: Secure Systems Life Cycle
 - **💬 How to reach me**: joshua.remington12@gmail.com / www.linkedin.com/in/josh-remington-798b08285
 
 ---
 
 ## 💼 Portfolio
 
-### 1. **Pathfinding Visualization**
+### 1. **Active Directory Cybersecurity Home Lab with VMware**
+   - **Description**: Built and managed a comprehensive home lab environment leveraging pfSense for network routing, Kali Linux for penetration testing, and Active Directory for identity and access management. Utilized Security Onion for centralized logging and intrusion detection, integrating with Active Directory to monitor and secure network traffic while conducting security assessments using Metasploit for vulnerability exploitation
+   - **Link to Project**: https://github.com/JoshuaRemington/Active-Directory-Cybersecurity-Home-Lab-with-VMware.git
+   
+### 2. **Unity Chess Engine**
+   - **Description**: •	Performed vulnerability assessments on a sandboxed home network using Nessus. Identified and analyzed CVEs; prioritized remediation steps based on severity. Authored a technical white paper detailing scan results, vulnerabilities, and mitigation strategies
+   - **Link to Project**: https://github.com/JoshuaRemington/CYBR-502-Vulnerability-Assessment.git
+
+### 3. **Pathfinding Visualization**
    - **Description**: The Pathfinding Visualizer is an interactive web application that allows users to visualize various pathfinding algorithms in action. This tool provides a visual representation of how algorithms like Dijkstra's, A*, and others find the shortest path between two points on a grid. It is a great educational tool for learning and understanding different pathfinding techniques.
    - **Tech Stack**: React(JavaScript, HTML, CSS)
    - **Link to Project**: https://github.com/JoshuaRemington/pathfindingvisualization
 
-### 2. **Unity Chess Engine**
+### 4. **Unity Chess Engine**
    - **Description**: This chess engine is designed to run within the Unity game engine environment. Leveraging bitwise operations for unparalleled efficiency, this engine employs the Minimax algorithm and Alpha-Beta pruning to deliver strategic gameplay experiences.
    - **Tech Stack**: Unity(C#)
    - **Link to Project**: https://github.com/JoshuaRemington/UnityChess
 
-### 3. **Thrift-A-Ticket**
+### 5. **Thrift-A-Ticket**
    - **Description**: Thrift-a-Ticket is a web application that allows users to search for event tickets and bookmark their favorite tickets. It integrates with the Ticketmaster API to provide real-time ticket data, enhancing the user experience.
    - **Tech Stack**: React(JavaScript, HTML, CSS) Spring Boot(Java), MySQL
    - **Link to Project**: https://github.com/JoshuaRemington/Thrift-a-Ticket
