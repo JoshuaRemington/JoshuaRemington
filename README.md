@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
    - **Link to Project**: https://github.com/JoshuaRemington/Active-Directory-Cybersecurity-Home-Lab-with-VMware.git
    
 ### 2. **White Paper on a Vulnerability Assessment**
-   - **Description**: •	Performed vulnerability assessments on a sandboxed home network using Nessus. Identified and analyzed CVEs; prioritized remediation steps based on severity. Authored a technical white paper detailing scan results, vulnerabilities, and mitigation strategies
+   - **Description**: Performed vulnerability assessments on a sandboxed home network using Nessus. Identified and analyzed CVEs; prioritized remediation steps based on severity. Authored a technical white paper detailing scan results, vulnerabilities, and mitigation strategies
    - **Link to Project**: https://github.com/JoshuaRemington/CYBR-502-Vulnerability-Assessment.git
 
 ### 3. **Pathfinding Visualization**
