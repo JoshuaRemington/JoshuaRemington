@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 
 ### 1. **Active Directory Security Operations Center Homelab**
    - **Description**: Built and managed a comprehensive home lab environment leveraging pfSense for network routing, Kali Linux for penetration testing, and Active Directory for identity and access management. Utilized Security Onion for centralized logging and intrusion detection, integrating with Active Directory to monitor and secure network traffic while conducting security assessments using Metasploit for vulnerability exploitation
-   - **Link to Project**: https://github.com/JoshuaRemington/Active-Directory-Cybersecurity-Home-Lab-with-VMware.git
+   - **Link to Project**: https://github.com/JoshuaRemington/Active-Directory-Security-Operations-Center-Homelab
 
 ### 2. **Pathfinding Visualization**
    - **Description**: The Pathfinding Visualizer is an interactive web application that allows users to visualize various pathfinding algorithms in action. This tool provides a visual representation of how algorithms like Dijkstra's, A*, and others find the shortest path between two points on a grid. It is a great educational tool for learning and understanding different pathfinding techniques.
