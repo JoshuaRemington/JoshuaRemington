@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 
 ## 💼 Portfolio
 
-### 1. **Active Directory Security Operations Center Homelab**
-   - **Description**: Built and managed a comprehensive home lab environment leveraging pfSense for network routing, Kali Linux for penetration testing, and Active Directory for identity and access management. Utilized Security Onion for centralized logging and intrusion detection, integrating with Active Directory to monitor and secure network traffic while conducting security assessments using Metasploit for vulnerability exploitation
+### 1. **Active-Directory-Security-Operations-Center-Malware-Analysis-Homelab**
+   - **Description**: Designed and deployed a comprehensive cybersecurity homelab that integrates Active Directory, Security Onion, pfSense, Kali Linux, REMnux, FLARE-VM, INetSim, FakeNet, Windows Server 2025, Windows endpoints, and Metasploitable2. The environment supports blue-team monitoring, threat detection, log analysis, attack simulation, malware analysis, vulnerability assessment, incident response, and network segmentation across dedicated production, attack, and malware analysis subnets. The project demonstrates SOC operations, defensive monitoring, offensive security testing, malware reverse engineering workflows, and enterprise network security architecture in a controlled environment.
    - **Link to Project**: https://github.com/JoshuaRemington/Active-Directory-Security-Operations-Center-Homelab
 
 ### 2. **Pathfinding Visualization**
