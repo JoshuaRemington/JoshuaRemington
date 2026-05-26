@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Cybersecurity Engineer, and this is where
 
 ## 🚀 About Me
 
-- **🔭 Currently working on**: 
+- **🔭 Currently working on**: AWS Based Homelab and Procedurally Generated Ocean
 - **🌱 Learning**: CYBR-514: Cyber Engineering Research I
 - **💬 How to reach me**: joshua.remington12@gmail.com / www.linkedin.com/in/josh-remington-798b08285
 
